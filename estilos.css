@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color:#40A578;
+    padding: 50px;
+}
+ 
+a{
+    text-decoration-style: none;
+    color: black;
+}
+
+header{
+    display: flex;
+    height: 70px;
+    background-color: #006769;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px;
+}
+
+nav a{
+    font-weight: 600;
+    padding-right: 10px;
+}
+
+nav a:hover{
+    color:white
+}
